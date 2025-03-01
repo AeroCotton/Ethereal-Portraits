@@ -3,7 +3,7 @@
 > A **stunning and artistic** portrait gallery showcasing **Ethereal Portraits**, designed with **HTML**, **CSS**, and **JavaScript** for a smooth user experience. Built with a focus on creativity and modern design.
 
 <p align="center">
-  <img src="assets/images/desktop-view.png" alt="Ethereal Portraits Page Preview" width="800">
+  <img src="preview.png" alt="Ethereal Portraits Page Preview" width="800">
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 | **Desktop View** | **Mobile View** |
 |-----------------|----------------|
-| <img src="assets/images/desktop-view.png" width="400"> | <img src="assets/images/mobile-view.png" width="250"> |
+| <img src="preview.png" width="400"> | <img src="mobile.png" width="250"> |
 
 ---
 
@@ -60,5 +60,5 @@ Follow these steps to **clone and set up** the project:
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/YOUR_USERNAME/Ethereal-Portraits.git
+git clone https://github.com/AeroCotton/Ethereal-Portraits.git
 cd Ethereal-Portraits
