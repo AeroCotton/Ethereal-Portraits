@@ -3,7 +3,7 @@
 > A **stunning and artistic** portrait gallery showcasing **Ethereal Portraits**, designed with **HTML**, **CSS**, and **JavaScript** for a smooth user experience. Built with a focus on creativity and modern design.
 
 <p align="center">
-  <img src="preview.png" alt="Ethereal Portraits Page Preview" width="800">
+  <img src="https://i.ibb.co/39G0Ynt1/desktop.png" alt="Ethereal Portraits Page Preview" width="800">
 </p>
 
 ---
